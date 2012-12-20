@@ -18,6 +18,7 @@ application.
 </table>
 
 <%= new String("Hello!") %>
+<%out.println("Bye")%>
 
 </body>
 </html>
